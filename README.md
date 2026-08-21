@@ -1,3 +1,5 @@
+<img align="right" src="assets/terminal-logo.png" width="120">
+
 ┌──(joshua㉿github)-[~/profile]<br>
 └─$ whoami
 
