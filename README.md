@@ -6,10 +6,10 @@ Data Science | Data Engineering | Cybersecurity
 
 └─$ current_focus
 
-> Building production-style data pipelines
-> Learning cloud infrastructure
-> Turning messy data into usable systems
-> Exploring cybersecurity + vulnerability intelligence
+> Building production-style data pipelines<br>
+> Learning cloud infrastructure<br>
+> Turning messy data into usable systems<br>
+> Exploring cybersecurity + vulnerability intelligence<br>
 
 └─$ stack
 
