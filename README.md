@@ -1,8 +1,7 @@
-┌──(joshua㉿github)-[~/profile]
-
+┌──(joshua㉿github)-[~/profile]<br>
 └─$ whoami
 
-Joshua Wei
+Joshua Wei<br>
 Data Science | Data Engineering | Cybersecurity
 
 └─$ current_focus
