@@ -13,6 +13,8 @@ Data Science | Data Engineering | Cybersecurity
 
 └─$ stack
 
-Python    SQL    PySpark
-Azure     Databricks     Docker
-Git       PostgreSQL     Linux
+```text
+Python      SQL         PySpark
+Azure       Databricks  Docker
+Git         PostgreSQL  Linux
+```
