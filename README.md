@@ -1,16 +1,18 @@
-## Hi there 👋
+┌──(joshua㉿github)-[~/profile]
+└─$ whoami
 
-<!--
-**joshuaweiiii/joshuaweiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Joshua Wei
+Data Science | Data Engineering | Cybersecurity
 
-Here are some ideas to get you started:
+└─$ current_focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Building production-style data pipelines
+> Learning cloud infrastructure
+> Turning messy data into usable systems
+> Exploring cybersecurity + vulnerability intelligence
+
+└─$ stack
+
+Python    SQL    PySpark
+Azure     Databricks     Docker
+Git       PostgreSQL     Linux
